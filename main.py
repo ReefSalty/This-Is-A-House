@@ -40,20 +40,20 @@ draw.rectangle(xy=(475, 305, 525, 750), fill=Brown2)
 draw.rectangle(xy=(500, 305, 525, 750), fill=Brown)
 
 #Tree - Left
-draw.rectangle(xy=(186, 600, 230, 925), fill=Brown)
-draw.rectangle(xy=(185, 600, 207, 925), fill=Brown2)
+draw.rectangle(xy=(206, 600, 250, 925), fill=Brown)
+draw.rectangle(xy=(206, 600, 227, 925), fill=Brown2)
 
-draw.ellipse(xy=(140, 250, 290, 700), fill=Green2)
-draw.pieslice((140, 250, 290, 700), start=90, end=270, fill=Green1)
+draw.ellipse(xy=(160, 250, 310, 700), fill=Green2)
+draw.pieslice((160, 250, 310, 700), start=90, end=270, fill=Green1)
 
-draw.ellipse(xy=(120, 300, 305, 750), fill=Green2)
-draw.pieslice((120, 300, 305, 750), start=90, end=270, fill=Green1)
+draw.ellipse(xy=(140, 300, 325, 750), fill=Green2)
+draw.pieslice((140, 300, 325, 750), start=90, end=270, fill=Green1)
 
-draw.ellipse(xy=(100, 350, 320, 800), fill=Green2)
-draw.pieslice((100, 350, 320, 800), start=90, end=270, fill=Green1)
+draw.ellipse(xy=(120, 350, 340, 800), fill=Green2)
+draw.pieslice((120, 350, 340, 800), start=90, end=270, fill=Green1)
 
-draw.ellipse(xy=(75, 400, 340, 850), fill=Green2)
-draw.pieslice((75, 400, 340, 850), start=90, end=270, fill=Green1)
+draw.ellipse(xy=(95, 400, 360, 850), fill=Green2)
+draw.pieslice((95, 400, 360, 850), start=90, end=270, fill=Green1)
 
 #House
 draw.rectangle(xy=(350, 625, 923, 923), fill=White1)
