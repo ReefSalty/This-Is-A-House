@@ -83,7 +83,6 @@ draw.ellipse(xy=(915, 595, 963, 650), fill=Red2)
 draw.ellipse(xy=(600, 361, 665, 420), fill=Red2)
 draw.pieslice(xy=(600, 361, 665, 420), start=90, end=270, fill=Red1)
 
-
 #Text
 font = ImageFont.truetype("Gidole-Regular.ttf", size=50)
 draw.text((850, 950), 'Reef', fill=Black, font=font)
