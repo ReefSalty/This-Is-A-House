@@ -49,8 +49,8 @@ draw.pieslice((160, 250, 310, 700), start=90, end=270, fill=Green1)
 draw.ellipse(xy=(140, 300, 325, 750), fill=Green2)
 draw.pieslice((140, 300, 325, 750), start=90, end=270, fill=Green1)
 
-draw.ellipse(xy=(120, 350, 340, 800), fill=Green2)
-draw.pieslice((120, 350, 340, 800), start=90, end=270, fill=Green1)
+draw.ellipse(xy=(115, 350, 345, 800), fill=Green2)
+draw.pieslice((115, 350, 345, 800), start=90, end=270, fill=Green1)
 
 draw.ellipse(xy=(95, 400, 360, 850), fill=Green2)
 draw.pieslice((95, 400, 360, 850), start=90, end=270, fill=Green1)
