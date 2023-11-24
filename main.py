@@ -44,12 +44,12 @@ draw.rectangle(xy=(206, 600, 250, 925), fill=Brown)
 draw.rectangle(xy=(206, 600, 227, 925), fill=Brown2)
 
 draw.ellipse(xy=(155, 250, 310, 700), fill=Green2)
-draw.pieslice((155, 250, 310, 700), start=90, end=270, fill=Green1)
+draw.pieslice((154, 250, 310, 700), start=90, end=270, fill=Green1)
 
 draw.ellipse(xy=(136, 300, 325, 750), fill=Green2)
-draw.pieslice((136, 300, 325, 750), start=90, end=270, fill=Green1)
+draw.pieslice((135, 300, 325, 750), start=90, end=270, fill=Green1)
 
-draw.ellipse(xy=(113, 350, 345, 800), fill=Green2)
+draw.ellipse(xy=(114, 350, 345, 800), fill=Green2)
 draw.pieslice((113, 350, 345, 800), start=90, end=270, fill=Green1)
 
 draw.ellipse(xy=(94, 400, 360, 850), fill=Green2)
@@ -80,8 +80,8 @@ draw.polygon(xy=(635, 360, 680, 415, 635, 425), fill=Red2)
 draw.ellipse(xy=(310, 595, 360, 650), fill=Red1)
 draw.ellipse(xy=(915, 595, 963, 650), fill=Red2)
 
-draw.ellipse(xy=(600, 361, 665, 420), fill=Red2)
-draw.pieslice(xy=(600, 361, 665, 420), start=90, end=270, fill=Red1)
+draw.ellipse(xy=(605, 361, 670, 420), fill=Red2)
+draw.pieslice(xy=(605, 361, 670, 420), start=90, end=270, fill=Red1)
 
 #Text
 font = ImageFont.truetype("Gidole-Regular.ttf", size=50)
