@@ -43,17 +43,17 @@ draw.rectangle(xy=(500, 305, 525, 750), fill=Brown)
 draw.rectangle(xy=(206, 600, 250, 925), fill=Brown)
 draw.rectangle(xy=(206, 600, 227, 925), fill=Brown2)
 
-draw.ellipse(xy=(160, 250, 310, 700), fill=Green2)
-draw.pieslice((160, 250, 310, 700), start=90, end=270, fill=Green1)
+draw.ellipse(xy=(155, 250, 310, 700), fill=Green2)
+draw.pieslice((155, 250, 310, 700), start=90, end=270, fill=Green1)
 
-draw.ellipse(xy=(140, 300, 325, 750), fill=Green2)
-draw.pieslice((140, 300, 325, 750), start=90, end=270, fill=Green1)
+draw.ellipse(xy=(136, 300, 325, 750), fill=Green2)
+draw.pieslice((136, 300, 325, 750), start=90, end=270, fill=Green1)
 
-draw.ellipse(xy=(115, 350, 345, 800), fill=Green2)
-draw.pieslice((115, 350, 345, 800), start=90, end=270, fill=Green1)
+draw.ellipse(xy=(113, 350, 345, 800), fill=Green2)
+draw.pieslice((113, 350, 345, 800), start=90, end=270, fill=Green1)
 
-draw.ellipse(xy=(95, 400, 360, 850), fill=Green2)
-draw.pieslice((95, 400, 360, 850), start=90, end=270, fill=Green1)
+draw.ellipse(xy=(94, 400, 360, 850), fill=Green2)
+draw.pieslice((94, 400, 360, 850), start=90, end=270, fill=Green1)
 
 #House
 draw.rectangle(xy=(350, 625, 923, 923), fill=White1)
