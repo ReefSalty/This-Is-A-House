@@ -87,4 +87,3 @@ draw.pieslice(xy=(605, 361, 670, 420), start=90, end=270, fill=Red1)
 font = ImageFont.truetype("Gidole-Regular.ttf", size=50)
 draw.text((850, 950), 'Reef', fill=Black, font=font)
 img.save('ThisIsAHouse.png')
-#yay
